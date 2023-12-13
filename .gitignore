@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+tutorialEnv/lib64
+tutorialEnv/pyvenv.cfg
+tutorialEnv/bin/activate
+tutorialEnv/bin/activate.csh
+tutorialEnv/bin/activate.fish
+tutorialEnv/bin/Activate.ps1
+tutorialEnv/bin/django-admin
+tutorialEnv/bin/pip
+tutorialEnv/bin/pip3
+tutorialEnv/bin/pip3.10
+tutorialEnv/bin/python
+tutorialEnv/bin/python3
+tutorialEnv/bin/python3.10
+tutorialEnv/bin/sqlformat
